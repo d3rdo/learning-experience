@@ -326,4 +326,4 @@ All other work related to analytics and explication of conclusions and insights 
 
 The project is presented in the form of a story. Each slide presents one specific topic and is accompanied by conclusions and observations. There are three slides in total: about the history of the speeches, about the topics of the speeches and about the authors of the speeches. Each slide is a separate dashboard with active action elements.
 
-Data-viz is [here](https://skillbox.ru/media/ "yep, that's right, tap on me")
+Data-viz is [here](https://public.tableau.com/app/profile/artem.aglyamov/viz/projectNo_2TELECOMNPS/Story1 "yep, that's right, tap on me")
