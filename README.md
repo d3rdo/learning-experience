@@ -1,5 +1,5 @@
 # learning-experience
- projects I made during the course on data analytics in yandex practicum
+ projects i made during the course on data analytics in yandex practicum
 ### description of the projects
  this repository contains the 3 most relevant projects at the moment of my training in yandex.practicum.
 | id  | name            | description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | stack                                                                                                |
